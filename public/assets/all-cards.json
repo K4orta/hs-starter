@@ -12,24 +12,6 @@
     },
     "cards": [
       {
-        "id": 7,
-        "name": "Garrosh Hellscream",
-        "description": "",
-        "image_url": "HERO_01.png",
-        "hero": "warrior",
-        "category": "hero",
-        "quality": "free",
-        "race": "none",
-        "set": "basic",
-        "mana": 0,
-        "attack": null,
-        "health": 30,
-        "collectible": true,
-        "effect_list": [
-
-        ]
-      },
-      {
         "id": 8,
         "name": "Mind Control",
         "description": "Take control of an enemy minion.",
@@ -171,24 +153,6 @@
         "mana": 3,
         "attack": null,
         "health": null,
-        "collectible": true,
-        "effect_list": [
-
-        ]
-      },
-      {
-        "id": 31,
-        "name": "Rexxar",
-        "description": "",
-        "image_url": "HERO_05.png",
-        "hero": "hunter",
-        "category": "hero",
-        "quality": "free",
-        "race": "none",
-        "set": "basic",
-        "mana": 0,
-        "attack": null,
-        "health": 30,
         "collectible": true,
         "effect_list": [
 
@@ -1759,24 +1723,6 @@
             "effect": "battlecry",
             "extra": "Take control of an enemy minion that has 2 or less Attack"
           }
-        ]
-      },
-      {
-        "id": 274,
-        "name": "Malfurion Stormrage",
-        "description": "",
-        "image_url": "HERO_06.png",
-        "hero": "druid",
-        "category": "hero",
-        "quality": "free",
-        "race": "none",
-        "set": "basic",
-        "mana": 0,
-        "attack": null,
-        "health": 30,
-        "collectible": true,
-        "effect_list": [
-
         ]
       },
       {
@@ -4727,24 +4673,6 @@
         ]
       },
       {
-        "id": 637,
-        "name": "Jaina Proudmoore",
-        "description": "",
-        "image_url": "HERO_08.png",
-        "hero": "mage",
-        "category": "hero",
-        "quality": "free",
-        "race": "none",
-        "set": "basic",
-        "mana": 0,
-        "attack": null,
-        "health": 30,
-        "collectible": true,
-        "effect_list": [
-
-        ]
-      },
-      {
         "id": 640,
         "name": "Hogger",
         "description": "At the end of your turn, summon a 2\/2 Gnoll with <b>Taunt<\/b>.",
@@ -4937,24 +4865,6 @@
             "effect": "battlecry",
             "extra": "Deal 3 damage to the enemy hero"
           }
-        ]
-      },
-      {
-        "id": 671,
-        "name": "Uther Lightbringer",
-        "description": "",
-        "image_url": "HERO_04.png",
-        "hero": "paladin",
-        "category": "hero",
-        "quality": "free",
-        "race": "none",
-        "set": "basic",
-        "mana": 0,
-        "attack": null,
-        "health": 30,
-        "collectible": true,
-        "effect_list": [
-
         ]
       },
       {
@@ -6001,24 +5911,6 @@
         ]
       },
       {
-        "id": 813,
-        "name": "Anduin Wrynn",
-        "description": "",
-        "image_url": "HERO_09.png",
-        "hero": "priest",
-        "category": "hero",
-        "quality": "free",
-        "race": "none",
-        "set": "basic",
-        "mana": 0,
-        "attack": null,
-        "health": 30,
-        "collectible": true,
-        "effect_list": [
-
-        ]
-      },
-      {
         "id": 814,
         "name": "Snipe",
         "description": "<b>Secret<\/b>: When your opponent plays a minion, deal 4 damage to it.",
@@ -6517,24 +6409,6 @@
         ]
       },
       {
-        "id": 893,
-        "name": "Gul'dan",
-        "description": "",
-        "image_url": "HERO_07.png",
-        "hero": "warlock",
-        "category": "hero",
-        "quality": "free",
-        "race": "none",
-        "set": "basic",
-        "mana": 0,
-        "attack": null,
-        "health": 30,
-        "collectible": true,
-        "effect_list": [
-
-        ]
-      },
-      {
         "id": 896,
         "name": "Flare",
         "description": "All minions lose <b>Stealth<\/b>. Destroy all enemy <b>Secret<\/b>s. Draw a card.",
@@ -6782,24 +6656,6 @@
         "attack": null,
         "health": null,
         "collectible": false,
-        "effect_list": [
-
-        ]
-      },
-      {
-        "id": 930,
-        "name": "Valeera Sanguinar",
-        "description": "",
-        "image_url": "HERO_03.png",
-        "hero": "rogue",
-        "category": "hero",
-        "quality": "free",
-        "race": "none",
-        "set": "basic",
-        "mana": 0,
-        "attack": null,
-        "health": 30,
-        "collectible": true,
         "effect_list": [
 
         ]
@@ -7597,24 +7453,6 @@
         "mana": 2,
         "attack": null,
         "health": null,
-        "collectible": true,
-        "effect_list": [
-
-        ]
-      },
-      {
-        "id": 1066,
-        "name": "Thrall",
-        "description": "",
-        "image_url": "HERO_02.png",
-        "hero": "shaman",
-        "category": "hero",
-        "quality": "free",
-        "race": "none",
-        "set": "basic",
-        "mana": 0,
-        "attack": null,
-        "health": 30,
         "collectible": true,
         "effect_list": [
 
@@ -8597,24 +8435,6 @@
         "mana": 4,
         "attack": 5,
         "health": 2,
-        "collectible": false,
-        "effect_list": [
-
-        ]
-      },
-      {
-        "id": 1325,
-        "name": "Jaina Proudmoore",
-        "description": "",
-        "image_url": "TU4a_006.png",
-        "hero": "mage",
-        "category": "hero",
-        "quality": "common",
-        "race": "none",
-        "set": "missions",
-        "mana": 0,
-        "attack": null,
-        "health": 27,
         "collectible": false,
         "effect_list": [
 
